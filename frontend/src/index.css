@@ -118,3 +118,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+.wails-drop-target-active {
+  border: 1px solid #ff3c00;
+}
